@@ -33,6 +33,7 @@ art
 1. Clone repository 
 ```
 git clone https://github.com/diplodoc13/Test_task_for_carbis.git
+cd Test_task_for_carbis
 ```
 2. Create a virtual environment and activate it:
 ```
